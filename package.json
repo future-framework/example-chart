@@ -1,0 +1,17 @@
+{
+  "name": "future-example-with-chart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --harmony index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "future-framework": "1.0.1",
+    "lodash": "^4.17.10",
+    "node-chartist": "^1.0.5"
+  }
+}
